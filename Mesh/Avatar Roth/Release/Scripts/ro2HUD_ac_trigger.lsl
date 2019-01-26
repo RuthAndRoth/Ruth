@@ -103,7 +103,7 @@ list              commandButtonList =    [
 "soles::feet::27::5",
 "heels::feet::27::6"
     ];
-    
+
 resetallalpha()
 {
     integer i;
@@ -326,4 +326,4 @@ default
             llSay(r2chan,message);
         }
     }
-} 
+}
