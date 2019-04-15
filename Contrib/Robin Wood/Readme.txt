@@ -25,9 +25,20 @@ Yes, you have my permission to post the templates wherever you’d like to post th
 I hope you are having a wonderful day!
 Take care, Robin
 
-SL-Avatar-Head-1024.png
-SL-Avatar-Upper-1024.png
-SL-Avatar-Lower-1024.png
+PNG Image (.png) Files
+     SL-Avatar-Head-1024.png
+     SL-Avatar-Lower-1024.png
+     SL-Avatar-Upper-1024.png
+
+Layered Photoshop (.psd) Files
+     SL-AV-Head-psd.zip
+     SL-AV-Lower-psd.zip
+     SL-AV-Upper-psd.zip
+
+Layered Photoshop with Vector Smart Objects (CS2 or above only)
+     SL-AV-Head-CS2.zip
+     SL-AV-Lower-CS2.zip
+     SL-AV-Upper-CS2.zip
 
 Other sizes and formats of the images are available via:
 https://www.robinwood.com/Catalog/Technical/SL-Tuts/SLPages/AVUVTemplates.html
