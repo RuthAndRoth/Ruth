@@ -1,10 +1,10 @@
-Ruth2.0_RC#4.2AlphaCuts.blend notes Ada Radius 2019-04-13
+Ruth2.0_RC#4.2AlphaCuts.blend notes Ada Radius 2019-04-15
 
 To Ruth2.0RC#4.blend:
     
-Append from ShinRC3_SundanceNewAlphas.blend  - to use Sundance's layout wishlist as the starting point. I added to it, primarily to be able to expose torso, hips and legs a little at the sides for ancient classical costume - chitans and stolas, for example. 
+Append from ShinRC3_SundanceNewAlphas.blend  - to use Sundance's layout wishlist as the starting point. I added to it, primarily to be able to expose torso, hips and legs a little at the sides for ancient classical costume - chitans and stolas, for example.  
 
-The HUD doll should be it T-pose instead of A-pose so clothing makers and their customers can reach the sides of the torso. 
+The HUD doll should be in T-pose instead of A-pose so clothing makers and their customers can reach the sides of the torso. 
 
 Each part has up to 8 materials, or faces inworld.
     
@@ -26,9 +26,15 @@ Please see the numbered parts list in this file. If you make a change, be sure t
 
 Data transfer modifiers (weld in Avastar) now point to the object directly above, or whatever looked the best to me. 
 
-Naming is by clothing terminology, which helped me to make decisions on what cuts to consolidate. There is a lot of variance industry-wide so I used what seemed reasonable, just so we can communicate with each other when there are differences of opinion.
+Duplicated the Cuts group and merged upper and lower bits to make new UV maps, grayscale & color. 
+
+Naming is by clothing terminology, which helped me to make decisions on which cuts to consolidate. There is a lot of variance industry-wide so I used what seemed reasonable, just so we can communicate with each other when there are differences of opinion.
 
 some sources:
     https://sewguide.com/fashion-vocabulary/ 
     https://www.apparelsearch.com/definitions/clothing/clothing_terminology.htm
     The Complete Costume Dictionary by Elizabeth J. Lewandowski
+
+I'm pretty sure that we can consolidate this into fewer segments, but I don't know which ones. 
+
+Ada Radius 2019-04-15
