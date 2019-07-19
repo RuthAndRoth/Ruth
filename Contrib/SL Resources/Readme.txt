@@ -1,3 +1,6 @@
+http://wiki.secondlife.com/wiki/Clothing_Tutorials#Second_Life_avatar_models
+URL checked 19-Jul-2019
+
 Second Life Avatar Content Creation Aids
 January, 2005
 
