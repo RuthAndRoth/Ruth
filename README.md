@@ -38,8 +38,9 @@ old and new repos if required:
 
 ## Previous Release
 
-The Ruth2 RC#2 release files have been archived into a git branch named
-'archive-ruth-rc2' and the directories renamed 'Release' in that branch.
+The Ruth 2.0 RC#2 (also known as Ruth2 v2) release files have been archived into a git branch named 'archive-ruth-rc2' and the directories renamed 'Release' in that branch.
+
+The Ruth 2.0 RC#3 (also known as Ruth2 v3) release files have been archived into a git branch named 'archive-ruth-rc3' and the directories renamed 'Release' in that branch.
 
 ## Licenses
 
