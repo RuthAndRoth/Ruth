@@ -95,10 +95,7 @@ The migration of content from this repository to its new home:
 * Attachments/ElfEars -> Accessories/ElfEars
 * Clothing -> Clothing
 * Contrib/Sundance Haiku/Fingernail Project -> HUDs/Fingernail Project
-* Contrib/Sundance Haiku/Hand Pose Library & HUD -> HUDs/Hand Pose Lib
-rary
-* LSLScripts/Parts Renamer by Fritigern Gothly -> Scripts/Parts Rename
-r
+* Contrib/Sundance Haiku/Hand Pose Library & HUD -> HUDs/Hand Pose Library
+* LSLScripts/Parts Renamer by Fritigern Gothly -> Scripts/Parts Renamer
 * Photos -> Textures
-* Skins/Ada Radius-Skin and Eyelash Helpers -> Textures/Skin and Eyela
-sh Helpers
+* Skins/Ada Radius-Skin and Eyelash Helpers -> Textures/Skin and Eyelash Helpers
